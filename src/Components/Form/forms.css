@@ -1,0 +1,12 @@
+table, th, td{
+    padding: 5px;
+    border: 1px solid black;
+    text-align: left;
+}
+table td{
+    text-transform: capitalize;
+}
+.icon{
+    text-align: center;
+    cursor: pointer;
+}
